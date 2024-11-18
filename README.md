@@ -1,0 +1,1 @@
+esse projeto foi construindo para um curso de desenvolvimento no senac sao-miguel. a ideia desse projeto e cria um site um dashboard, utilizando html, css, html, php, e mysql. alguns dos contribuidores para esse projeto foi gustavo luis, e rodolfo costa. 
